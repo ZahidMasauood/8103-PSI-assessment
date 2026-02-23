@@ -1,4 +1,3 @@
-# 8103-PSI-assessment
 # HolyPapa 🕊️
 AI-powered holistic & spiritual healing services aggregator with booking + payments.
 
